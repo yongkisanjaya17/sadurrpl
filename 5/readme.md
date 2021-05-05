@@ -1,3 +1,3 @@
-Nama : yongki sanjaya
-Nim :1811500053
-Kelompok:TI6J
+Nama : yongki sanjaya<br>
+Nim :1811500053<br>
+Kelompok:TI6J<br>
